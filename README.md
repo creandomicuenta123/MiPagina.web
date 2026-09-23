@@ -51,6 +51,6 @@ El objetivo de MiPagina es proporcionar una página web útil, intuitiva y acces
 
 👨‍💻 Autor
 
-[Tu nombre]
+    Edison Esteban Caratar Poveda 
 
 ⭐ Si te gusta este proyecto, puedes darle una estrella al repositorio.
